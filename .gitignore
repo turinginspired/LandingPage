@@ -1,0 +1,13 @@
+# This repository holds the TinyTutor landing page only (the website/ folder).
+# Everything else in this project folder stays local and is never committed: the Flutter
+# lessons prototype (frontend/), the unused backend, leftovers, preview screenshots, the
+# platform blueprint and the reference textbook PDFs.
+/*
+!/.gitignore
+!/website/
+
+# Editors and operating systems
+.DS_Store
+Thumbs.db
+.idea/
+*.iml
